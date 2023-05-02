@@ -91,7 +91,7 @@ def insert_to_db(filename, database):
             save_path = os.path.join(file_name)
 
             # step 4 - find anchor row and parse information
-            anchor_text = "https://support.myfitnesspal.com/hc/en-us/articles/360032273292-What-does-the-check-mark-mean-"
+            anchor_text = "Percent Daily Values are based on a 2000 calorie diet."
             parsed_info = {}
 
             with open(save_path, "r", encoding='utf-8') as f:
@@ -102,51 +102,51 @@ def insert_to_db(filename, database):
                     if anchor_text in line:
                         parsed_info['food_id'] = 1000000
                         parsed_info['food_name'] = str(
-                            lines[i - 1].strip()).lower()
+                            lines[i - 44].strip()).lower()
                         parsed_info['food_name_search'] = None
                         parsed_info['ingredient_name'] = parsed_info['food_name']
                         parsed_info['ingredient_name_en'] = parsed_info['food_name']
                         parsed_info['ingredient_name_search'] = None
                         parsed_info['ingredient_unit_vn'] = ''.join(
-                            [c for c in lines[i + 3].strip() if not c.isdigit()]).replace('gram(s)', 'g').replace('tbsp(s)', 'tbsp').replace('ml(s)', 'ml').replace('gram', 'g').replace('gr', 'g').replace('mL', 'ml')
+                            [c for c in lines[i - 38].strip() if not c.isdigit()]).replace('gram(s)', 'g').replace('tbsp(s)', 'tbsp').replace('ml(s)', 'ml').replace('gram', 'g').replace('gr', 'g').replace('mL', 'ml')
                         parsed_info['ingredient_unit_en'] = parsed_info['ingredient_unit_vn']
                         parsed_info['serving'] = 1
                         parsed_info['quantity'] = float(
-                            lines[i + 3].strip().split()[0])
+                            lines[i - 38].strip().split()[0])
                         parsed_info['calories'] = float(
-                            lines[i + 5].strip().split()[0])
+                            lines[i - 33].strip().split()[0])
                         parsed_info['sodium'] = float(
-                            lines[i + 23].strip().split()[0])
+                            lines[i - 15].strip().split()[0])
                         parsed_info['potassium'] = float(
-                            lines[i + 25].strip().split()[0])
+                            lines[i - 13].strip().split()[0])
                         parsed_info['saturated_fat'] = float(
-                            lines[i + 9].strip().split()[0])
+                            lines[i - 29].strip().split()[0])
                         parsed_info['carbohydrates'] = float(
-                            lines[i + 27].strip().split()[0])
+                            lines[i - 11].strip().split()[0])
                         parsed_info['polyunsaturated_fat'] = float(
-                            lines[i + 11].strip().split()[0])
+                            lines[i - 27].strip().split()[0])
                         parsed_info['fiber'] = float(
-                            lines[i + 29].strip().split()[0])
+                            lines[i - 9].strip().split()[0])
                         parsed_info['fat'] = float(
-                            lines[i + 7].strip().split()[0])
+                            lines[i - 31].strip().split()[0])
                         parsed_info['monounsaturated_fat'] = float(
-                            lines[i + 13].strip().split()[0])
+                            lines[i - 25].strip().split()[0])
                         parsed_info['sugar'] = float(
-                            lines[i + 31].strip().split()[0])
+                            lines[i - 7].strip().split()[0])
                         parsed_info['trans_fat'] = float(
-                            lines[i + 15].strip().split()[0])
+                            lines[i - 23].strip().split()[0])
                         parsed_info['protein'] = float(
-                            lines[i + 33].strip().split()[0])
+                            lines[i - 5].strip().split()[0])
                         parsed_info['cholesterol'] = float(
-                            lines[i + 17].strip().split()[0])
+                            lines[i - 21].strip().split()[0])
                         parsed_info['vitamin_a'] = float(
-                            lines[i + 19].strip().split()[0])
+                            lines[i - 19].strip().split()[0])
                         parsed_info['calcium'] = float(
-                            lines[i + 35].strip().split()[0])
+                            lines[i - 3].strip().split()[0])
                         parsed_info['vitamin_c'] = float(
-                            lines[i + 21].strip().split()[0])
+                            lines[i - 17].strip().split()[0])
                         parsed_info['iron'] = float(
-                            lines[i + 37].strip().split()[0])
+                            lines[i - 1].strip().split()[0])
                         parsed_info['smart_points'] = round(
                             0.035 * parsed_info['calories'] + 0.275 * parsed_info['saturated_fat'] + 0.12 * parsed_info['sugar'] - 0.098 * parsed_info['protein'], 4)
                         parsed_info['food_category_id'] = None
