@@ -1,8 +1,7 @@
 import os
 import psycopg2
 from config import DatabaseConnection
-# step 2 - prompt user for filename
-# filename = input("Enter filename: ")
+import datetime
 
 
 def add_new_line(filename):
@@ -82,9 +81,7 @@ def remove_new_line(filename):
 
 
 def insert_to_db(filename, database):
-    # step 3 - save as txt file in C:\Users\Dell\Downloads\mfp\
-    # downloads_path = os.path.join(os.path.expanduser("~"), "Downloads", "mfp")
-
+    filename.replace('\u200b1', '')
     file_names = []
     file_names.append(filename)
     # for filename in os.listdir(dir_path):
@@ -98,7 +95,9 @@ def insert_to_db(filename, database):
             parsed_info = {}
 
             with open(save_path, "r", encoding='utf-8') as f:
-                lines = f.readlines()
+                content = f.read().replace('\u200b', '')
+                lines = content.splitlines()
+                # lines = f.readlines()
                 for i, line in enumerate(lines):
                     if anchor_text in line:
                         parsed_info['food_id'] = 1000000
@@ -158,7 +157,10 @@ def insert_to_db(filename, database):
             conn = db.connection
             cur = conn.cursor()
 
-            query = "INSERT INTO public.fin_man_py( food_id, food_name, food_name_search, ingredient_name, ingredient_name_en, ingredient_name_search ,ingredient_unit_vn, ingredient_unit_en, serving, quantity, calories, sodium, potassium, saturated_fat, carbohydrates, polyunsaturated_fat, fiber, fat, monounsaturated_fat, sugar, trans_fat, protein, cholesterol, vitamin_a, calcium, vitamin_c, iron, smart_points, food_category_id, from_source) VALUES ({})".format(
+            # Format as string
+            now = datetime.datetime.now()
+            cr_date = now.strftime('%Y-%m-%d %H:%M:%S')
+            query = "INSERT INTO public.fin_man_py( food_id, food_name, food_name_search, ingredient_name, ingredient_name_en, ingredient_name_search ,ingredient_unit_vn, ingredient_unit_en, serving, quantity, calories, sodium, potassium, saturated_fat, carbohydrates, polyunsaturated_fat, fiber, fat, monounsaturated_fat, sugar, trans_fat, protein, cholesterol, vitamin_a, calcium, vitamin_c, iron, smart_points, food_category_id, from_source, cr_date) VALUES ({})".format(
                 ','.join([
                     str(parsed_info['food_id']),
                     "'" + parsed_info['food_name'] + "'",
@@ -193,6 +195,7 @@ def insert_to_db(filename, database):
                     str(parsed_info['smart_points']),
                     'NULL' if parsed_info['food_category_id'] is None else parsed_info['food_category_id'],
                     "'" + parsed_info['from_source'] + "'",
+                    "'" + cr_date + "'"
                 ])
             )
 
