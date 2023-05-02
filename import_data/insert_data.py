@@ -2,6 +2,7 @@ import os
 import psycopg2
 from config import DatabaseConnection
 import datetime
+import re
 
 
 def add_new_line(filename):
@@ -11,7 +12,7 @@ def add_new_line(filename):
     # Define the words to insert newlines before and after
     words = [
         "Nutrition Facts",
-        "Edit <https://www.myfitnesspal.com/en/food/edit/53882013928493>",
+        r'Edit <https:\/\/www\.myfitnesspal\.com\/en\/food\/edit\/\d+>',
         "Learn more<https://support.myfitnesspal.com/hc/en-us/articles/360032273292-What-does-the-check-mark-mean->",
         "Servings:",
         "Calories",
@@ -36,6 +37,13 @@ def add_new_line(filename):
 
     filenames = []
     filenames.append(filename)
+
+    # Define the regular expression pattern for the line containing the URL
+    url_pattern = r'Edit <https:\/\/www\.myfitnesspal\.com\/en\/food\/edit\/\d+>'
+
+    # Compile the regular expression pattern
+    url_regex = re.compile(url_pattern)
+
     # for filename in os.listdir(dir_path):
     for filename in filenames:
         # Loop through all the text files in the directory
@@ -49,6 +57,12 @@ def add_new_line(filename):
             for word in words:
                 contents = contents.replace(word, "\n" + word + "\n")
 
+            # Insert a newline before the regex line
+            match = url_regex.search(contents)
+            if match:
+                contents = url_regex.sub(
+                    "\n" + match.group(0) + "\n", contents)
+
             # Write the modified contents back to the file
             with open(os.path.join(filename), "w", encoding='utf-8') as f:
                 f.write(contents)
@@ -58,6 +72,7 @@ def add_new_line(filename):
 def remove_new_line(filename):
     # directory containing text files
     # dir_path = r'c:\\Users\\Dell\\Downloads\\mfp'
+    words = ["Learn more<https://support.myfitnesspal.com/hc/en-us/articles/360032273292-What-does-the-check-mark-mean->"]
 
     # loop through each file in dir
     filenames = []
@@ -71,6 +86,10 @@ def remove_new_line(filename):
             with open(file_path, 'r', encoding='utf-8') as f:
                 text = f.read()
 
+            # remove specified words
+            for word in words:
+                text = text.replace(word, "")
+
             # remove new line
             text = text.replace('\n', '')
 
@@ -81,7 +100,6 @@ def remove_new_line(filename):
 
 
 def insert_to_db(filename, database):
-    filename.replace('\u200b1', '')
     file_names = []
     file_names.append(filename)
     # for filename in os.listdir(dir_path):
@@ -102,17 +120,17 @@ def insert_to_db(filename, database):
                     if anchor_text in line:
                         parsed_info['food_id'] = 1000000
                         parsed_info['food_name'] = str(
-                            lines[i - 44].strip()).lower()
+                            lines[i - 37].strip()).lower()
                         parsed_info['food_name_search'] = None
                         parsed_info['ingredient_name'] = parsed_info['food_name']
                         parsed_info['ingredient_name_en'] = parsed_info['food_name']
                         parsed_info['ingredient_name_search'] = None
                         parsed_info['ingredient_unit_vn'] = ''.join(
-                            [c for c in lines[i - 38].strip() if not c.isdigit()]).replace('gram(s)', 'g').replace('tbsp(s)', 'tbsp').replace('ml(s)', 'ml').replace('gram', 'g').replace('gr', 'g').replace('mL', 'ml')
+                            [c for c in lines[i - 35].strip() if not c.isdigit()]).replace('gram(s)', 'g').replace('tbsp(s)', 'tbsp').replace('ml(s)', 'ml').replace('gram', 'g').replace('gr', 'g').replace('mL', 'ml')
                         parsed_info['ingredient_unit_en'] = parsed_info['ingredient_unit_vn']
                         parsed_info['serving'] = 1
                         parsed_info['quantity'] = float(
-                            lines[i - 38].strip().split()[0])
+                            lines[i - 35].strip().split()[0])
                         parsed_info['calories'] = float(
                             lines[i - 33].strip().split()[0])
                         parsed_info['sodium'] = float(
