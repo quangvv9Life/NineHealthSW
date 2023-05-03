@@ -12,8 +12,7 @@ def add_new_line(filename):
     # Define the words to insert newlines before and after
     words = [
         "Nutrition Facts",
-        r'Edit <https:\/\/www\.myfitnesspal\.com\/en\/food\/edit\/\d+>',
-        "Learn more<https://support.myfitnesspal.com/hc/en-us/articles/360032273292-What-does-the-check-mark-mean->",
+        # r'Edit <https:\/\/www\.myfitnesspal\.com\/en\/food\/edit\/\d+>',
         "Servings:",
         "Calories",
         "Total Fat",
@@ -39,10 +38,10 @@ def add_new_line(filename):
     filenames.append(filename)
 
     # Define the regular expression pattern for the line containing the URL
-    url_pattern = r'Edit <https:\/\/www\.myfitnesspal\.com\/en\/food\/edit\/\d+>'
+    # url_pattern = r'Edit <https:\/\/www\.myfitnesspal\.com\/en\/food\/edit\/\d+>'
 
     # Compile the regular expression pattern
-    url_regex = re.compile(url_pattern)
+    # url_regex = re.compile(url_pattern)
 
     # for filename in os.listdir(dir_path):
     for filename in filenames:
@@ -58,10 +57,10 @@ def add_new_line(filename):
                 contents = contents.replace(word, "\n" + word + "\n")
 
             # Insert a newline before the regex line
-            match = url_regex.search(contents)
-            if match:
-                contents = url_regex.sub(
-                    "\n" + match.group(0) + "\n", contents)
+            # match = url_regex.search(contents)
+            # if match:
+                # contents = url_regex.sub(
+                # "\n" + match.group(0) + "\n", contents)
 
             # Write the modified contents back to the file
             with open(os.path.join(filename), "w", encoding='utf-8') as f:
@@ -119,52 +118,52 @@ def insert_to_db(filename, database):
                 for i, line in enumerate(lines):
                     if anchor_text in line:
                         parsed_info['food_id'] = 1000000
-                        parsed_info['food_name'] = str(
-                            lines[i - 37].strip()).lower()
+                        parsed_info['food_name'] = (file_name.split(
+                            '\\')[-1].split('.')[0]).lower()
                         parsed_info['food_name_search'] = None
                         parsed_info['ingredient_name'] = parsed_info['food_name']
                         parsed_info['ingredient_name_en'] = parsed_info['food_name']
                         parsed_info['ingredient_name_search'] = None
                         parsed_info['ingredient_unit_vn'] = ''.join(
-                            [c for c in lines[i - 35].strip() if not c.isdigit()]).replace('gram(s)', 'g').replace('tbsp(s)', 'tbsp').replace('ml(s)', 'ml').replace('gram', 'g').replace('gr', 'g').replace('mL', 'ml')
+                            [c for c in lines[i - 35].strip() if not c.isdigit()]).replace('gram(s)', 'g').replace('tbsp(s)', 'tbsp').replace('ml(s)', 'ml').replace('gram', 'g').replace('gr', 'g').replace('mL', 'ml').replace('tsp(s)', 'tsp')
                         parsed_info['ingredient_unit_en'] = parsed_info['ingredient_unit_vn']
                         parsed_info['serving'] = 1
                         parsed_info['quantity'] = float(
-                            lines[i - 35].strip().split()[0])
+                            lines[i - 35].strip().split()[0].replace(',', ''))
                         parsed_info['calories'] = float(
-                            lines[i - 33].strip().split()[0])
+                            lines[i - 33].strip().split()[0].replace(',', ''))
                         parsed_info['sodium'] = float(
-                            lines[i - 15].strip().split()[0])
+                            lines[i - 15].strip().split()[0].replace(',', ''))
                         parsed_info['potassium'] = float(
-                            lines[i - 13].strip().split()[0])
+                            (lines[i - 13].strip().split()[0]).replace(',', ''))
                         parsed_info['saturated_fat'] = float(
-                            lines[i - 29].strip().split()[0])
+                            lines[i - 29].strip().split()[0].replace(',', ''))
                         parsed_info['carbohydrates'] = float(
-                            lines[i - 11].strip().split()[0])
+                            lines[i - 11].strip().split()[0].replace(',', ''))
                         parsed_info['polyunsaturated_fat'] = float(
-                            lines[i - 27].strip().split()[0])
+                            lines[i - 27].strip().split()[0].replace(',', ''))
                         parsed_info['fiber'] = float(
-                            lines[i - 9].strip().split()[0])
+                            lines[i - 9].strip().split()[0].replace(',', ''))
                         parsed_info['fat'] = float(
-                            lines[i - 31].strip().split()[0])
+                            lines[i - 31].strip().split()[0].replace(',', ''))
                         parsed_info['monounsaturated_fat'] = float(
-                            lines[i - 25].strip().split()[0])
+                            lines[i - 25].strip().split()[0].replace(',', ''))
                         parsed_info['sugar'] = float(
-                            lines[i - 7].strip().split()[0])
+                            lines[i - 7].strip().split()[0].replace(',', ''))
                         parsed_info['trans_fat'] = float(
-                            lines[i - 23].strip().split()[0])
+                            lines[i - 23].strip().split()[0].replace(',', ''))
                         parsed_info['protein'] = float(
-                            lines[i - 5].strip().split()[0])
+                            lines[i - 5].strip().split()[0].replace(',', ''))
                         parsed_info['cholesterol'] = float(
-                            lines[i - 21].strip().split()[0])
+                            lines[i - 21].strip().split()[0].replace(',', ''))
                         parsed_info['vitamin_a'] = float(
-                            lines[i - 19].strip().split()[0])
+                            lines[i - 19].strip().split()[0].replace(',', ''))
                         parsed_info['calcium'] = float(
-                            lines[i - 3].strip().split()[0])
+                            lines[i - 3].strip().split()[0].replace(',', ''))
                         parsed_info['vitamin_c'] = float(
-                            lines[i - 17].strip().split()[0])
+                            lines[i - 17].strip().split()[0].replace(',', ''))
                         parsed_info['iron'] = float(
-                            lines[i - 1].strip().split()[0])
+                            lines[i - 1].strip().split()[0].replace(',', ''))
                         parsed_info['smart_points'] = round(
                             0.035 * parsed_info['calories'] + 0.275 * parsed_info['saturated_fat'] + 0.12 * parsed_info['sugar'] - 0.098 * parsed_info['protein'], 4)
                         parsed_info['food_category_id'] = None
@@ -216,9 +215,37 @@ def insert_to_db(filename, database):
                     "'" + cr_date + "'"
                 ])
             )
+            update_query = "UPDATE fin  f1 \
+                            SET \
+                                calories = COALESCE((f2.calories / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                sodium = COALESCE((f2.sodium / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                potassium = COALESCE((f2.potassium / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                saturated_fat = COALESCE((f2.saturated_fat / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                carbohydrates = COALESCE((f2.carbohydrates / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                polyunsaturated_fat = COALESCE((f2.polyunsaturated_fat / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                fiber = COALESCE((f2.fiber / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                fat = COALESCE((f2.fat / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                monounsaturated_fat = COALESCE((f2.monounsaturated_fat / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                sugar = COALESCE((f2.sugar / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                trans_fat = COALESCE((f2.trans_fat / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                protein = COALESCE((f2.protein / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                cholesterol = COALESCE((f2.cholesterol / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                vitamin_a = COALESCE((f2.vitamin_a / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                calcium = COALESCE((f2.calcium / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                vitamin_c = COALESCE((f2.vitamin_c / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                iron = COALESCE((f2.iron / NULLIF(f2.quantity, 0)) * f1.quantity, 0), \
+                                from_source = f2.from_source \
+                            FROM fin_man_py  f2 \
+                            WHERE 1=1 \
+                                and f1.ingredient_name_en = f2.ingredient_name_en \
+                                and f1.ingredient_unit_en = f2.ingredient_unit_en \
+                                and f1.ingredient_name_en = '{}' \
+                                and f1.ingredient_unit_en in ('{}') \
+                                and f1.calories > 10000 ;".format(parsed_info['ingredient_name_en'], parsed_info['ingredient_unit_en'].replace(' ', ''))
 
             # print(query)
             cur.execute(query)
+            cur.execute(update_query)
             conn.commit()
             cur.close()
             conn.close()

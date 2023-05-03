@@ -1,216 +1,653 @@
-<https://www.myfitnesspal.com/>Hi, vuvietquang90 <https://www.myfitnesspal.com/profile/vuvietquang90><https://www.myfitnesspal.com/en/messages>0<https://www.myfitnesspal.com/invitations>0Help <https://www.myfitnesspal.com/en/zendesk/sso_login>Settings<https://www.myfitnesspal.com/account/settings>Log Out<https://www.myfitnesspal.com/account/logout>FollowUs:<https://facebook.com/myfitnesspal><https://twitter.com/myfitnesspal>My Home <https://www.myfitnesspal.com/>Food <https://www.myfitnesspal.com/en/food/diary>Exercise <https://www.myfitnesspal.com/en/exercise/diary>Reports <https://www.myfitnesspal.com/en/reports>Apps <https://www.myfitnesspal.com/en/apps/logged_in_index>Community<https://community.myfitnesspal.com/en/entry/jsconnect?client_id=1122755462&Target=%2Fcategories>Blog <https://blog.myfitnesspal.com/>Premium <https://www.myfitnesspal.com/premium?source=menu_bar>Food Diary <https://www.myfitnesspal.com/en/food/diary>Database<https://www.myfitnesspal.com/en/food/calorie-chart-nutrition-facts>My Foods <https://www.myfitnesspal.com/en/food/mine>My Meals <https://www.myfitnesspal.com/en/meal/mine>Recipes <https://www.myfitnesspal.com/en/recipe_parser>Settings <https://www.myfitnesspal.com/account/diary-settings>  Calorie Chart, 
-Nutrition Facts
- for Food​Matching Foods:Caldo de osso - bovinoStone Bone Paleo Food, 100 ml,39 
-Calories
-Beef Bone BrothBarebones, 15 G,50 
-Calories
-Bone Broth1 gram(s),0 
-Calories
-Organic Bone BrothKirkland Organic Cicken Bone Broth, 1 cup,45 
-Calories
-Caldo de osso de frangoStone Bone Paleo Food, 100 ml,12 
-Calories
-Beef Bone BrothReal Bone Broth, 1 cup,20 
-Calories
-Bone brothOsso bone broth, 8 oz,51 
-Calories
-Bone brothBone broth, 100 ml,34 
-Calories
-Chicken Bone BrothBraised Bone Broth Company, 8 oz,60 
-Calories
-Grass Fed Beef Bone BrothKitchfix, 236.6 mL,78 
-Calories
-BeefBone Broth, 1 cup,70 
-Calories
-Bone BrothAncient Bone Broth Greens, 1 scoop,100 
-Calories
-bone brothepic bone broth, 1 container,60 
-Calories
-Veal Bone BrothBone Broth Bar, 1 cup,100 
-Calories
-Bone BrothButcher's Bone Broth, 8 fl oz,60 
-Calories
-Bone brothBone broth osius, 100 ml,40 
-Calories
-Bone BrothBone Broth Brothers, 22 grams,85 
-Calories
-bone brothtumeric bone broth, 23 gram,90 
-Calories
-bone brothBeef bone broth, 8 fl oz,60 
-Calories
-Bone BrothLonolife, 15 g,50 
-Calories
-Chicken Bone BrothPocket Broth, 1 cup,90 
-Calories
-Bone BrothBoned Broth, 200 ml,200 
-Calories
-Golden Chicken Bone BrothKitchfix, 226.8 g,91 
-Calories
-Bone brothBone broth co, 10 g,27 
-Calories
-Lamb Bone BrothBone&marrow, 250 ml,220 
-Calories
-Bone broth instant chicken brothBone Brewhouse, 1 packet,60 
-Calories
-bone brothbest bone broth, 1 tablespoon,35 
-Calories
-Bone brothBone broth  chocolate, 1 scoop,90 
-Calories
-Bone brothSpring Bone Broth, 250 ml,41 
-Calories
+<https://www.myfitnesspal.com/>
+Hi, vuvietquang90 <https://www.myfitnesspal.com/profile/vuvietquang90>
+<https://www.myfitnesspal.com/en/messages>
+0
+<https://www.myfitnesspal.com/invitations>
+0
+Help <https://www.myfitnesspal.com/en/zendesk/sso_login>Settings
+<https://www.myfitnesspal.com/account/settings>Log Out
+<https://www.myfitnesspal.com/account/logout>
+Follow
+Us:<https://facebook.com/myfitnesspal><https://twitter.com/myfitnesspal>
+My Home <https://www.myfitnesspal.com/>
+Food <https://www.myfitnesspal.com/en/food/diary>
+Exercise <https://www.myfitnesspal.com/en/exercise/diary>
+Reports <https://www.myfitnesspal.com/en/reports>
+Apps <https://www.myfitnesspal.com/en/apps/logged_in_index>
+Community
+<https://community.myfitnesspal.com/en/entry/jsconnect?client_id=1122755462&Target=%2Fcategories>
+Blog <https://blog.myfitnesspal.com/>
+Premium <https://www.myfitnesspal.com/premium?source=menu_bar>
+Food Diary <https://www.myfitnesspal.com/en/food/diary>
+Database
+<https://www.myfitnesspal.com/en/food/calorie-chart-nutrition-facts>
+My Foods <https://www.myfitnesspal.com/en/food/mine>
+My Meals <https://www.myfitnesspal.com/en/meal/mine>
+Recipes <https://www.myfitnesspal.com/en/recipe_parser>
+Settings <https://www.myfitnesspal.com/account/diary-settings>
 
-Protein
- bone brothBone Broth, 20 per container,90 
-Calories
-Bone brothBone Broth 
-Protein
-, 1 gram,90 
-Calories
-Bone BrothOwl Bone Broth, 8 oz,100 
-Calories
-Bone brothNorish  bone broth, 5 grams,19 
-Calories
-BrothBone broth, 2 scoops,60 
-Calories
-Bone BrothWild Bone Broth, 22 Grams,90 
-Calories
-Bone brothFind bone broth, 1 jar,56 
-Calories
-Bone broth proteinBone broth, 1 scoop,70 
-Calories
-Bone BrothAu Bon Broth, 4 oz,28 
-Calories
-Bone BrothHale, 1 cup,35 
-Calories
-Bone BrothNaked, 2 scoops,90 
-Calories
-Beef Bone BrothPure Bone Broth, 250 mL,30 
-Calories
-Bone BrothPressery, 8 oz,120 
-Calories
-Bone BrothBrodo Broth Company, 1 cup,80 
-Calories
-BoneBone broth, 1 cup,25 
-Calories
-bone brothbone, 8 fl oz,45 
-Calories
-Pho Bone BrothBone Brewhouse, 0.33 of container,45 
-Calories
-Bone Broth, TraditionalBone Brewhouse, 0.33 of container,45 
-Calories
-Bone BrothBone Broth Spring Thai Broth, 250 gram,166 
-Calories
-Bone BrothBone Broth (Spring) Thai Broth, 1 gram,166 
-Calories
-bone brothBroth bliss, 250 ml,48 
-Calories
-Bone brothByron bays bone broth, 1 jar,60 
-Calories
-Bone BrothProgresso, 1 Cup (240 grams),45 
-Calories
-Bone BrothEpic, 14 oz,70 
-Calories
-Bone BrothStock Exchange Bone Broth, 250 gram,50 
-Calories
-Bone brothHappy. Mammoth bone broth, 250 ml,58 
-Calories
-Beef BrothErie Bone Broth, 8 fl oz,50 
-Calories
-BrothReal Beef Bone Broth, 1 cup,58 
-Calories
-Bone BrothOsteobroth, 2 TBSP,50 
-Calories
-Bone BrothBone Broths Co, 1 cup,40 
-Calories
-bone brothjarrow, 2 scoop,70 
-Calories
-Bone brothLP chicken bone broth, 1 cup,50 
-Calories
-Chicken Bone BrothButcher's Bone Broth, 8 oz,45 
-Calories
-Bone broth smoothieBone to broth, 1 cup,50 
-Calories
-bone broth proteinbone broth protein, 25 gram,90 
-Calories
-Bone brothFive Mary’s bone broth, 16 fl oz,90 
-Calories
-Conductor Bone BrothFond Bone Broth, 1 cup,50 
-Calories
-Restore bone brothRestore bone broth, 1 cup,16 
-Calories
-Bone Broth ConcentrateBest Bone Broth, 10 g,110 
-Calories
-Bone BrothBare Bones Bone Broth, 15 gram,50 
-Calories
-bone brothancient nutrition bone broth, 20 gram,90 
-Calories
-Bone broth instant mixBone Broth, 1 packet,50 
-Calories
-Bone brothDr. Kellyann bone broth, 1 cup,70 
-Calories
-Chicken Bone BrothBrutus Bone Broth, 1 cup,86 
-Calories
-Beef bone brothOLLA Bone Broth, 1 cup,50 
-Calories
-Bone brothAu Bon Bone Broth, 1 packet,120 
-Calories
-Chicken bone brothThe bone broth bar, 1 cup,100 
-Calories
-Bone BrothPanorama Organic Bone Broth, 1 cup,40 
-Calories
-Bone brothBone broth vital proteins, 1 scoop,40 
-Calories
-Chicken bone brothShorba bone broth, 1 cup,60 
-Calories
-Chicken bone brothBone Broth Bros, 1 sachet,65 
-Calories
-Collagen bone brothBone to broth, 1 cup,50 
-Calories
-Chicken Bone BrothBone Baby, 8 fl oz,80 
-Calories
-Beef Bone BrothBone to Broth, 1 cup,70 
-Calories
-Our 3 Bone brothBone broth, 8 oz,100 
-Calories
-Bone brothChicken bone broth soule, 1 cup,28 
-Calories
-beef bone brothBone and Broth, 1 package,50 
-Calories
-Chicken bone brothSpring bone broth, 250 g,38 
-Calories
-Bone brothLeft Coast Bone Broth, 1 scoop,90 
-Calories
-bone brothlono life bone broth, 15 gram,50 
-Calories
-Bone Broth PowderBone Broth Powder, 1 scoop,90 
-Calories
-Bone brothTurmeric chicken bone broth, 10 oz,50 
-Calories
-Bone BrothKettle & Fire Bone Broth, 1 container,100 
-Calories
-Fish Bone BrothBone Broth Guy, 240 ml,39 
-Calories
-Chicken bone brothSpring   Bone broth, 250 g,40 
-Calories
-Bone BrothOsso Good Bone Broth, 16 oz,80 
-Calories
-Beef Bone BrothErie Bone Broth, 8 fl oz,50 
-Calories
-Concentrate bone brothChicken bone broth, 1.33333 tbsp,45 
-Calories
-Bone brothSalted caramel bone broth, 1 packet,45 
-Calories
-Chicken Bone BrothBoned Broth, 500 ml,90 
-Calories
-Naked Bone Broth Instant Chicken Broth PacketsBone Brewhouse, 1 packet,60 
-Calories
 
-Nutrition Facts
+  Calorie Chart, Nutrition Facts for Food
+
+​
+
+Matching Foods:
+
+Caldo de osso - bovino
+
+Stone Bone Paleo Food, 100 ml,
+
+39 Calories
+
+Beef Bone Broth
+
+Barebones, 15 G,
+
+50 Calories
+
 Bone Broth
-Learn more<https://support.myfitnesspal.com/hc/en-us/articles/360032273292-What-does-the-check-mark-mean->
 
-Servings:​
-1 ml​
+1 gram(s),
+
+0 Calories
+
+Organic Bone Broth
+
+Kirkland Organic Cicken Bone Broth, 1 cup,
+
+45 Calories
+
+Caldo de osso de frango
+
+Stone Bone Paleo Food, 100 ml,
+
+12 Calories
+
+Beef Bone Broth
+
+Real Bone Broth, 1 cup,
+
+20 Calories
+
+Bone broth
+
+Osso bone broth, 8 oz,
+
+51 Calories
+
+Bone broth
+
+Bone broth, 100 ml,
+
+34 Calories
+
+Chicken Bone Broth
+
+Braised Bone Broth Company, 8 oz,
+
+60 Calories
+
+Grass Fed Beef Bone Broth
+
+Kitchfix, 236.6 mL,
+
+78 Calories
+
+Beef
+
+Bone Broth, 1 cup,
+
+70 Calories
+
+Bone Broth
+
+Ancient Bone Broth Greens, 1 scoop,
+
+100 Calories
+
+bone broth
+
+epic bone broth, 1 container,
+
+60 Calories
+
+Veal Bone Broth
+
+Bone Broth Bar, 1 cup,
+
+100 Calories
+
+Bone Broth
+
+Butcher's Bone Broth, 8 fl oz,
+
+60 Calories
+
+Bone broth
+
+Bone broth osius, 100 ml,
+
+40 Calories
+
+Bone Broth
+
+Bone Broth Brothers, 22 grams,
+
+85 Calories
+
+bone broth
+
+tumeric bone broth, 23 gram,
+
+90 Calories
+
+bone broth
+
+Beef bone broth, 8 fl oz,
+
+60 Calories
+
+Bone Broth
+
+Lonolife, 15 g,
+
+50 Calories
+
+Chicken Bone Broth
+
+Pocket Broth, 1 cup,
+
+90 Calories
+
+Bone Broth
+
+Boned Broth, 200 ml,
+
+200 Calories
+
+Golden Chicken Bone Broth
+
+Kitchfix, 226.8 g,
+
+91 Calories
+
+Bone broth
+
+Bone broth co, 10 g,
+
+27 Calories
+
+Lamb Bone Broth
+
+Bone&marrow, 250 ml,
+
+220 Calories
+
+Bone broth instant chicken broth
+
+Bone Brewhouse, 1 packet,
+
+60 Calories
+
+bone broth
+
+best bone broth, 1 tablespoon,
+
+35 Calories
+
+Bone broth
+
+Bone broth  chocolate, 1 scoop,
+
+90 Calories
+
+Bone broth
+
+Spring Bone Broth, 250 ml,
+
+41 Calories
+
+Protein bone broth
+
+Bone Broth, 20 per container,
+
+90 Calories
+
+Bone broth
+
+Bone Broth Protein, 1 gram,
+
+90 Calories
+
+Bone Broth
+
+Owl Bone Broth, 8 oz,
+
+100 Calories
+
+Bone broth
+
+Norish  bone broth, 5 grams,
+
+19 Calories
+
+Broth
+
+Bone broth, 2 scoops,
+
+60 Calories
+
+Bone Broth
+
+Wild Bone Broth, 22 Grams,
+
+90 Calories
+
+Bone broth
+
+Find bone broth, 1 jar,
+
+56 Calories
+
+Bone broth protein
+
+Bone broth, 1 scoop,
+
+70 Calories
+
+Bone Broth
+
+Au Bon Broth, 4 oz,
+
+28 Calories
+
+Beef Bone Broth
+
+Pure Bone Broth, 250 mL,
+
+30 Calories
+
+Bone Broth
+
+Hale, 1 cup,
+
+35 Calories
+
+Bone Broth
+
+Naked, 2 scoops,
+
+90 Calories
+
+Bone Broth
+
+Pressery, 8 oz,
+
+120 Calories
+
+Bone Broth
+
+Brodo Broth Company, 1 cup,
+
+80 Calories
+
+Bone
+
+Bone broth, 1 cup,
+
+25 Calories
+
+bone broth
+
+bone, 8 fl oz,
+
+45 Calories
+
+Pho Bone Broth
+
+Bone Brewhouse, 0.33 of container,
+
+45 Calories
+
+Bone Broth, Traditional
+
+Bone Brewhouse, 0.33 of container,
+
+45 Calories
+
+Bone Broth
+
+Bone Broth Spring Thai Broth, 250 gram,
+
+166 Calories
+
+Bone Broth
+
+Bone Broth (Spring) Thai Broth, 1 gram,
+
+166 Calories
+
+bone broth
+
+Broth bliss, 250 ml,
+
+48 Calories
+
+Bone broth
+
+Byron bays bone broth, 1 jar,
+
+60 Calories
+
+Bone Broth
+
+Progresso, 1 Cup (240 grams),
+
+45 Calories
+
+Bone Broth
+
+Epic, 14 oz,
+
+70 Calories
+
+Bone Broth
+
+Stock Exchange Bone Broth, 250 gram,
+
+50 Calories
+
+Bone broth
+
+Happy. Mammoth bone broth, 250 ml,
+
+58 Calories
+
+Beef Broth
+
+Erie Bone Broth, 8 fl oz,
+
+50 Calories
+
+Broth
+
+Real Beef Bone Broth, 1 cup,
+
+58 Calories
+
+Bone Broth
+
+Osteobroth, 2 TBSP,
+
+50 Calories
+
+Bone Broth
+
+Bone Broths Co, 1 cup,
+
+40 Calories
+
+bone broth
+
+jarrow, 2 scoop,
+
+70 Calories
+
+Bone broth
+
+LP chicken bone broth, 1 cup,
+
+50 Calories
+
+Chicken Bone Broth
+
+Butcher's Bone Broth, 8 oz,
+
+45 Calories
+
+Bone broth smoothie
+
+Bone to broth, 1 cup,
+
+50 Calories
+
+bone broth protein
+
+bone broth protein, 25 gram,
+
+90 Calories
+
+Bone broth
+
+Five Mary’s bone broth, 16 fl oz,
+
+90 Calories
+
+Conductor Bone Broth
+
+Fond Bone Broth, 1 cup,
+
+50 Calories
+
+Restore bone broth
+
+Restore bone broth, 1 cup,
+
+16 Calories
+
+Bone Broth Concentrate
+
+Best Bone Broth, 10 g,
+
+110 Calories
+
+Bone Broth
+
+Bare Bones Bone Broth, 15 gram,
+
+50 Calories
+
+bone broth
+
+ancient nutrition bone broth, 20 gram,
+
+90 Calories
+
+Bone broth instant mix
+
+Bone Broth, 1 packet,
+
+50 Calories
+
+Bone broth
+
+Dr. Kellyann bone broth, 1 cup,
+
+70 Calories
+
+Chicken Bone Broth
+
+Brutus Bone Broth, 1 cup,
+
+86 Calories
+
+Beef bone broth
+
+OLLA Bone Broth, 1 cup,
+
+50 Calories
+
+Bone broth
+
+Au Bon Bone Broth, 1 packet,
+
+120 Calories
+
+Bone Broth
+
+Panorama Organic Bone Broth, 1 cup,
+
+40 Calories
+
+Chicken bone broth
+
+The bone broth bar, 1 cup,
+
+100 Calories
+
+Bone broth
+
+Bone broth vital proteins, 1 scoop,
+
+40 Calories
+
+Chicken bone broth
+
+Shorba bone broth, 1 cup,
+
+60 Calories
+
+Chicken bone broth
+
+Bone Broth Bros, 1 sachet,
+
+65 Calories
+
+Collagen bone broth
+
+Bone to broth, 1 cup,
+
+50 Calories
+
+Beef Bone Broth
+
+Bone to Broth, 1 cup,
+
+70 Calories
+
+Our 3 Bone broth
+
+Bone broth, 8 oz,
+
+100 Calories
+
+Chicken Bone Broth
+
+Bone Baby, 8 fl oz,
+
+80 Calories
+
+Bone broth
+
+Chicken bone broth soule, 1 cup,
+
+28 Calories
+
+beef bone broth
+
+Bone and Broth, 1 package,
+
+50 Calories
+
+Chicken bone broth
+
+Spring bone broth, 250 g,
+
+38 Calories
+
+Bone broth
+
+Left Coast Bone Broth, 1 scoop,
+
+90 Calories
+
+bone broth
+
+lono life bone broth, 15 gram,
+
+50 Calories
+
+Bone Broth Powder
+
+Bone Broth Powder, 1 scoop,
+
+90 Calories
+
+Bone broth
+
+Turmeric chicken bone broth, 10 oz,
+
+50 Calories
+
+Bone Broth
+
+Kettle & Fire Bone Broth, 1 container,
+
+100 Calories
+
+Fish Bone Broth
+
+Bone Broth Guy, 240 ml,
+
+39 Calories
+
+Chicken bone broth
+
+Spring   Bone broth, 250 g,
+
+40 Calories
+
+Bone Broth
+
+Osso Good Bone Broth, 16 oz,
+
+80 Calories
+
+Beef Bone Broth
+
+Erie Bone Broth, 8 fl oz,
+
+50 Calories
+
+Concentrate bone broth
+
+Chicken bone broth, 1.33333 tbsp,
+
+45 Calories
+
+Bone broth
+
+Salted caramel bone broth, 1 packet,
+
+45 Calories
+
+Chicken Bone Broth
+
+Boned Broth, 500 ml,
+
+90 Calories
+
+Chicken Bone Broth
+
+Bone & Broth London, 100 g,
+
+21 Calories
+
+Nutrition Facts
+
+Bone Broth
+
+Learn more
+<https://support.myfitnesspal.com/hc/en-us/articles/360032273292-What-does-the-check-mark-mean->
+
+Servings:
+
+​
+
+1 ml
+
+​
+
 Calories
 0.162
 Total Fat
@@ -245,4 +682,33 @@ Calcium
 0.006 %
 Iron
 0.004 %
-*Percent Daily Values are based on a 2000 calorie diet. Your dailyvalues may be higher or lower depending on your calorie needs.  * Calorie Counter <https://www.myfitnesspal.com/>  * Blog <https://blog.myfitnesspal.com/>  * Terms <https://www.myfitnesspal.com/terms-of-service>  * Privacy <https://www.myfitnesspal.com/privacy-policy>  * Contact Us <https://www.myfitnesspal.com/contact-us>  * API <https://www.myfitnesspal.com/api>  * Jobs <https://www.myfitnesspal.com/jobs>  * Feedback    <https://community.myfitnesspal.com/en/entry/jsconnect?client_id=1122755462&Target=%2Fcategories%2Ffeature-suggestions-and-ideas>  * Community Guidelines <https://www.myfitnesspal.com/community-guidelines>  *    Cookie Preferences  * Ad Choices    <https://www.myfitnesspal.com/privacy-policy#interest-based-advertising>  * Do Not Sell My Personal Information    <https://www.myfitnesspal.com/data-usage>© 2023 MyFitnessPal, Inc.Free Calorie Counter, Diet & Exercise Journal | MyFitnessPal*butter * //ˈbədər/ / /UK / // <javascript:void(0)>/US / //<javascript:void(0)>noun a pale yellow edible fatty substance made by churning cream andused as a spread or in cooking.verb spread (something) with butter.*butter * /FR / // <javascript:void(0)>verb to heap*butter * /DE / // <javascript:void(0)>verb 1. inflection of buttern: first-person singular present singularimperative2. first-person singular present3. singular imperative
+*Percent Daily Values are based on a 2000 calorie diet. Your daily
+values may be higher or lower depending on your calorie needs.
+
+  * Calorie Counter <https://www.myfitnesspal.com/>
+  * Blog <https://blog.myfitnesspal.com/>
+  * Terms <https://www.myfitnesspal.com/terms-of-service>
+  * Privacy <https://www.myfitnesspal.com/privacy-policy>
+  * Contact Us <https://www.myfitnesspal.com/contact-us>
+  * API <https://www.myfitnesspal.com/api>
+  * Jobs <https://www.myfitnesspal.com/jobs>
+  * Feedback
+    <https://community.myfitnesspal.com/en/entry/jsconnect?client_id=1122755462&Target=%2Fcategories%2Ffeature-suggestions-and-ideas>
+  * Community Guidelines <https://www.myfitnesspal.com/community-guidelines>
+  *
+
+    Cookie Preferences
+
+  * Ad Choices
+    <https://www.myfitnesspal.com/privacy-policy#interest-based-advertising>
+  * Do Not Sell My Personal Information
+    <https://www.myfitnesspal.com/data-usage>
+
+© 2023 MyFitnessPal, Inc.
+
+Free Calorie Counter, Diet & Exercise Journal | MyFitnessPal
+
+*coloring * /UK / // <javascript:void(0)>/US / // <javascript:void(0)>
+noun 1. the process or skill of applying a substance to something so as
+to change its original color.
+2. appearance with regard to color.

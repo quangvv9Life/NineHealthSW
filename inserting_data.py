@@ -8,7 +8,7 @@ if __name__ == '__main__':
     # check if the data folder exists in the current directory
     path = os.path.join(current_dir, 'data')
 
-    file = 'banana flower'
+    file = 'thyme'
     filename = os.path.join(path, file + ".txt")
 
     remove_new_line(filename)

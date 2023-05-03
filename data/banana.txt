@@ -1,418 +1,210 @@
 <https://www.myfitnesspal.com/>Hi, vuvietquang90 <https://www.myfitnesspal.com/profile/vuvietquang90><https://www.myfitnesspal.com/en/messages>0<https://www.myfitnesspal.com/invitations>0Help <https://www.myfitnesspal.com/en/zendesk/sso_login>Settings<https://www.myfitnesspal.com/account/settings>Log Out<https://www.myfitnesspal.com/account/logout>FollowUs:<https://facebook.com/myfitnesspal><https://twitter.com/myfitnesspal>My Home <https://www.myfitnesspal.com/>Food <https://www.myfitnesspal.com/en/food/diary>Exercise <https://www.myfitnesspal.com/en/exercise/diary>Reports <https://www.myfitnesspal.com/en/reports>Apps <https://www.myfitnesspal.com/en/apps/logged_in_index>Community<https://community.myfitnesspal.com/en/entry/jsconnect?client_id=1122755462&Target=%2Fcategories>Blog <https://blog.myfitnesspal.com/>Premium <https://www.myfitnesspal.com/premium?source=menu_bar>Food Diary <https://www.myfitnesspal.com/en/food/diary>Database<https://www.myfitnesspal.com/en/food/calorie-chart-nutrition-facts>My Foods <https://www.myfitnesspal.com/en/food/mine>My Meals <https://www.myfitnesspal.com/en/meal/mine>Recipes <https://www.myfitnesspal.com/en/recipe_parser>Settings <https://www.myfitnesspal.com/account/diary-settings>  Calorie Chart, 
-
 Nutrition Facts
-
  for Food​Matching Foods:Banana1 medium,105 
-
 Calories
-
 Large BananaBanana, 1 piece,121 
-
 Calories
-
 Banana - (One)Banana - (One), 118 grams,105 
-
 Calories
-
 BananaMensa GD, 1 Frutto,66 
-
 Calories
-
 BananaGeneric - DAB, 1 whole,72 
-
 Calories
-
 Large Fresh BananaBanana, 1 large (8" to 8-7/8" long),121 
-
 Calories
-
 Banana SlicedBanana, 1 cup ( 166 G),133 
-
 Calories
-
 170g inc. skin ~Banana Cavendish, 100 g,92 
-
 Calories
-
 Banana PequenaBanana, 2 pequenas,78 
-
 Calories
-
 Banana medium wholeGeneric, 1 medium whole (118 g),110 
-
 Calories
-
 Banana Small ( Chara )Banana 100 g., 100 g,89 
-
 Calories
-
 Banana - PlatanoBanana, 100 gr,79 
-
 Calories
-
 BananaBanana Caturra, 1 Unidade média,64 
-
 Calories
-
 Banana (20221003)Dole, 3.5 oz (100g),89 
-
 Calories
-
 (Small)Banana, 6 - 6.9 inches,90 
-
 Calories
-
 BananaFrutto Banana Generico, 100 gr,89 
-
 Calories
-
 Peeled BananaDole Banana, 10 g,53 
-
 Calories
-
 BananaBanana fritter, 1 Slice,85 
-
 Calories
-
 Banana (60g)Banana (Small), 1 (60g),53 
-
 Calories
-
 Banana (Chiquita)Banana Mink, 126 g,110 
-
 Calories
-
 Banana1 gram(s),1 
-
 Calories
-
 Banana PiecesBanana, 1 cup at the ready,25 
-
 Calories
-
 Una banana mediaBanana, 1 Banana,105 
-
 Calories
-
 BananaMadre Natura, 100 gr,89 
-
 Calories
-
 BananaAl's Banana, 100 g,89 
-
 Calories
-
 Banana Banana BreadAllrecipes, 1 slice,229 
-
 Calories
-
 Banana BruschettaBanana bruschetta, 2 slices,312 
-
 Calories
-
 Fried BananaBanana, 1 pack (85)g,263 
-
 Calories
-
 Indian Banana (Baby Banana)Yellaki Banana, 1 banana,100 
-
 Calories
-
 Banana YogurtPublix Banana Yogurt, 1 container,190 
-
 Calories
-
 BananaBanana (Usda) - 2016, 126 g,110 
-
 Calories
-
 Fda Banana MediumBanana, 1 medium banana (126g),110 
-
 Calories
-
 Banana Dati CorrettiBanana, 100 g,89 
-
 Calories
-
 BananaLaffy Taffy banana, 1 bar,180 
-
 Calories
-
 Banana FruitTesco Banana, 100 g,90 
-
 Calories
-
 BananaMarket, 1 banana,105 
-
 Calories
-
 BananaBanana Da Prata, 1 unidade média,45 
-
 Calories
-
 Medium BananaChaquita Banana, 126 g,108 
-
 Calories
-
 BananaSupermarket, 1 banana,105 
-
 Calories
-
 BananaBanacol, 1 medium banana,110 
-
 Calories
-
 BananaAlbertsons, 1 banana,105 
-
 Calories
-
 HomemadeBanana, 1 whole,105 
-
 Calories
-
 BananaBig, 118 g,105 
-
 Calories
-
 Banana - Medium 8"Banana, 105 cal,105 
-
 Calories
-
 Dipped Banana BitesBanana, 1 oz,130 
-
 Calories
-
 BananaBethel, 1 small (2.5 oz.),65 
-
 Calories
-
 BananaWeetabix, 2 Biscuits (44g),157 
-
 Calories
-
 Banana SpiceHakuna Banana, 0.5 cup,100 
-
 Calories
-
 Banana MilkshakeBanana Milkshake, 1 Cup,533 
-
 Calories
-
 8in. Yellow BananaBanana, 1 Banana,105 
-
 Calories
-
 Banana Milk6.8 fl oz,160 
-
 Calories
-
 Banana Lg1 ea,121 
-
 Calories
-
 Banana BarJana Banana, 38 g,140 
-
 Calories
-
 Organic Banana BitesBanana, 1.4 oz,115 
-
 Calories
-
 BananaChiq., 1 piece,105 
-
 Calories
-
 BananaThe Square Banana, 1 square,66 
-
 Calories
-
 Banana ChipsBanana Chips, 0.33 cup,140 
-
 Calories
-
 Banana D'águaBanana D'água, 100 grs,97 
-
 Calories
-
 Normal BananaBanana, 1 portion,100 
-
 Calories
-
 Banana Crumb MuffinBanana crumb muffin, 1 muffin,263 
-
 Calories
-
 Banana PassaBanana Brasil, 50 g,173 
-
 Calories
-
 BananaChobani, 6 oz,160 
-
 Calories
-
 BananaBanana (Per Nutritionvalue.org), 86 g,77 
-
 Calories
-
 Banana 100gAverage Banana, 100 g,89 
-
 Calories
-
 BananaBanana D' água, 80 g,77 
-
 Calories
-
 BananaSlimfast, 25 cups,230 
-
 Calories
-
 Banana DesidratadaBanana Mania, 1 unidade,59 
-
 Calories
-
 Solar Dried BananaBanana Society, 1 piece,80 
-
 Calories
-
 Apple BananaManzano Banana, 1 medium (7" to 7-7/8" long - 118g),105 
-
 Calories
-
 Banana PassaBanana Mania, 2 unid,96 
-
 Calories
-
 Banana ChipsBanana Chips Nature's Harvest, 0.25 cup,160 
-
 Calories
-
 Banana, Fresh, 150gBanana, 1 banana,135 
-
 Calories
-
 BananaSchool, 1 medium,105 
-
 Calories
-
 Banana BreadTrader Joe's banana bread, 0.111111 loaf,310 
-
 Calories
-
 BananaCreamies, 1 bar,120 
-
 Calories
-
 BananaJewel, 1 One medium,105 
-
 Calories
-
 Korean Banana MilkKorean banana milk, 220 ml,160 
-
 Calories
-
 BananaSainsburys fairtrade banana, 1 banana,92 
-
 Calories
-
 3oz BananaBanana-fresh, 1 banana,75 
-
 Calories
-
 Banana Bran MuffinBanana Bran Muffin, 1 cup,196 
-
 Calories
-
 BananaHom Thong Banana, 115 g,147 
-
 Calories
-
 Banana, Lady Finger Banana, Sugar BananaFruit, 100 gram,111 
-
 Calories
-
 Banana Whole MediumBanana, 1 -Medium,108 
-
 Calories
-
 BananaMacro Banana, 136 g,121 
-
 Calories
-
 Banana PacovanBanana Pacovan, 100 gramas,117 
-
 Calories
-
 Banana (Julia's Net Carbs)Banana, 1 banana,110 
-
 Calories
-
 BananaBanana - 1 Small Whole, 1 Whole Small (6"-6 7/8" long) (101g),90 
-
 Calories
-
 Banana Nanica (Bel)Banana (Bel), 100 g,92 
-
 Calories
-
 banana blossombanana blossom, 1 cup,50 
-
 Calories
-
 Banana By AAPlátano Banana, 100 gr,89 
-
 Calories
-
 Banana CakeTokyo Banana, 35 g,135 
-
 Calories
-
 1 Banana.1 Regular Banana., 118 g,105 
-
 Calories
-
 Banana Prata AntoniaBanana Prata, 1 gramas,69 
-
 Calories
-
 Banana Nanica - Taco 2011Banana, 100 g,92 
-
 Calories
-
 1/2 BananaChiquita Banana, 0.5 banana,53 
-
 Calories
-
 Lacatan BananaBanana 6.5", 80 ml or 1 bottle,56 
-
 Calories
-
 2 Eggs and 1 BananaBanana pancakes, 2 cups,250 
-
 Calories
-
 Banana Prata 65 GrBanana, 1 portion,58 
-
 Calories
-
 Coconut Organic Banana BitesBanana, 1.4 oz,135 
-
 Calories
-
 Chocolate Dipped BananaBanana Society, 1 bag,90 
-
 Calories
-
-
 
 Nutrition Facts
-
-
-
 siamese banana
-Learn more<https://support.myfitnesspal.com/hc/en-us/articles/360032273292-What-does-the-check-mark-mean->
-
-Servings:​
-1 piece
+Servings:
+​1 piece
 Calories
 133.5
 Total Fat
@@ -447,4 +239,5 @@ Calcium
 0.75 %
 Iron
 2.167 %
-*Percent Daily Values are based on a 2000 calorie diet. Your dailyvalues may be higher or lower depending on your calorie needs.  * Calorie Counter <https://www.myfitnesspal.com/>  * Blog <https://blog.myfitnesspal.com/>  * Terms <https://www.myfitnesspal.com/terms-of-service>  * Privacy <https://www.myfitnesspal.com/privacy-policy>  * Contact Us <https://www.myfitnesspal.com/contact-us>  * API <https://www.myfitnesspal.com/api>  * Jobs <https://www.myfitnesspal.com/jobs>  * Feedback    <https://community.myfitnesspal.com/en/entry/jsconnect?client_id=1122755462&Target=%2Fcategories%2Ffeature-suggestions-and-ideas>  * Community Guidelines <https://www.myfitnesspal.com/community-guidelines>  *    Cookie Preferences  * Ad Choices    <https://www.myfitnesspal.com/privacy-policy#interest-based-advertising>  * Do Not Sell My Personal Information    <https://www.myfitnesspal.com/data-usage>© 2023 MyFitnessPal, Inc.Free Calorie Counter, Diet & Exercise Journal | MyFitnessPal*butter * //ˈbədər/ / /UK / // <javascript:void(0)>/US / //<javascript:void(0)>noun a pale yellow edible fatty substance made by churning cream andused as a spread or in cooking.verb spread (something) with butter.*butter * /FR / // <javascript:void(0)>verb to heap*butter * /DE / // <javascript:void(0)>verb 1. inflection of buttern: first-person singular present singularimperative2. first-person singular present3. singular imperative
+*Percent Daily Values are based on a 2000 calorie diet.
+ Your dailyvalues may be higher or lower depending on your calorie needs.  * Calorie Counter <https://www.myfitnesspal.com/>  * Blog <https://blog.myfitnesspal.com/>  * Terms <https://www.myfitnesspal.com/terms-of-service>  * Privacy <https://www.myfitnesspal.com/privacy-policy>  * Contact Us <https://www.myfitnesspal.com/contact-us>  * API <https://www.myfitnesspal.com/api>  * Jobs <https://www.myfitnesspal.com/jobs>  * Feedback    <https://community.myfitnesspal.com/en/entry/jsconnect?client_id=1122755462&Target=%2Fcategories%2Ffeature-suggestions-and-ideas>  * Community Guidelines <https://www.myfitnesspal.com/community-guidelines>  *    Cookie Preferences  * Ad Choices    <https://www.myfitnesspal.com/privacy-policy#interest-based-advertising>  * Do Not Sell My Personal Information    <https://www.myfitnesspal.com/data-usage>© 2023 MyFitnessPal, Inc.Free Calorie Counter, Diet & Exercise Journal | MyFitnessPal*butter * //ˈbədər/ / /UK / // <javascript:void(0)>/US / //<javascript:void(0)>noun a pale yellow edible fatty substance made by churning cream andused as a spread or in cooking.verb spread (something) with butter.*butter * /FR / // <javascript:void(0)>verb to heap*butter * /DE / // <javascript:void(0)>verb 1. inflection of buttern: first-person singular present singularimperative2. first-person singular present3. singular imperative
