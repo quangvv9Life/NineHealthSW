@@ -13,6 +13,7 @@ def add_new_line(filename):
     words = [
         "Nutrition Facts",
         # r'Edit <https:\/\/www\.myfitnesspal\.com\/en\/food\/edit\/\d+>',
+        'Learn more<https://support.myfitnesspal.com/hc/en-us/articles/360032273292-What-does-the-check-mark-mean->',
         "Servings:",
         "Calories",
         "Total Fat",
@@ -98,7 +99,7 @@ def remove_new_line(filename):
     return "remove new line successfully"
 
 
-def insert_to_db(filename, database):
+def insert_to_db(filename, database, nutrient, quantity):
     file_names = []
     file_names.append(filename)
     # for filename in os.listdir(dir_path):
@@ -241,11 +242,11 @@ def insert_to_db(filename, database):
                                 and f1.ingredient_unit_en = f2.ingredient_unit_en \
                                 and f1.ingredient_name_en = '{}' \
                                 and f1.ingredient_unit_en in ('{}') \
-                                and f1.calories > 10000 ;".format(parsed_info['ingredient_name_en'], parsed_info['ingredient_unit_en'].replace(' ', ''))
+                                and f1.{} > {} ;".format(parsed_info['ingredient_name_en'], parsed_info['ingredient_unit_en'].replace(' ', ''), nutrient, quantity)
 
             # print(query)
             cur.execute(query)
-            cur.execute(update_query)
+            # cur.execute(update_query)
             conn.commit()
             cur.close()
             conn.close()

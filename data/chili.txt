@@ -58,7 +58,13 @@ ChiliWolfs Chili, 1 cup,400
 Calories
 ChiliLentil Chili, 1 cup,187 
 Calories
+Chili1 gram(s),1 
+Calories
+Chili1 gram(s),1 
+Calories
 Vegan ChiliVegan Chili, 1 bowl,260 
+Calories
+Chili1 gram(s),1 
 Calories
 ChiliNalley, 1 cup,280 
 Calories
@@ -70,19 +76,19 @@ ChiliAmy's, 1 cup,280
 Calories
 ChiliVegetarian Chili, 1 cup,164 
 Calories
-Oikarto, Chili ChiliOrion, 1 pack,270 
-Calories
 ChiliCampbell's, 1 cup,240 
-Calories
-Chilifrischs, 1 cup,300 
 Calories
 ChiliCulver's, 1 cup,300 
 Calories
+Chilifrischs, 1 cup,300 
+Calories
 Chilirunza, 1 cup,320 
 Calories
-ChiliPublix, 1 cup,320 
+Oikarto, Chili ChiliOrion, 1 pack,270 
 Calories
 ChiliSchwan's, 1 Bowl,280 
+Calories
+ChiliPublix, 1 cup,320 
 Calories
 Chili BeansDakota's mild chili beans, 0.5 cup,120 
 Calories
@@ -90,17 +96,17 @@ ChiliNutrisystem, 1 container,240
 Calories
 ChiliAtkins, 1 meal,320 
 Calories
-ChiliStagg Chili, 1 cup,260 
-Calories
 ChiliDennison, 1 cup,360 
-Calories
-ChiliCrock pot chicken taco chili, 1.25 cups,204 
 Calories
 ChiliSouth Beach chili, 1.5 cup,350 
 Calories
-ChiliBraum's, 1 cup,350 
+ChiliCrock pot chicken taco chili, 1.25 cups,204 
+Calories
+ChiliStagg Chili, 1 cup,260 
 Calories
 Vegetarian ChiliChili Man, 1 cup,220 
+Calories
+ChiliBraum's, 1 cup,350 
 Calories
 Steakhouse ChiliStagg Chili, 1 cup,320 
 Calories
@@ -118,11 +124,11 @@ ChiliChilli's Terlingua Chili, 1 bowl,360
 Calories
 Chili MacaroniChili Macaroni, 1 cup,270 
 Calories
-ChiliArmour, 1 cup,350 
+ChiliChili johns, 10.5 oz,299 
 Calories
 ChiliLonghorn, 1 bowl,210 
 Calories
-ChiliChili johns, 10.5 oz,299 
+ChiliArmour, 1 cup,350 
 Calories
 ChiliJason's Deli Chili, 1 chili bowl no cheese,500 
 Calories
@@ -132,9 +138,17 @@ ChiliSam's Chili, 1 cup cooked,235
 Calories
 chiligild star chili, 0.5 cup,110 
 Calories
+Turkey ChiliK Turkey Chili, 1 cup,250 
+Calories
+ChiliHormel Chili W/ Beans, 1 cup,270 
+Calories
+Chicken ChiliUhc Chicken Chili, 1 cup,210 
+Calories
+Chili No BeansHornel Chili, 1 cup,220 
+Calories
 Honey Chili SauceChili Gods, 1 tsp,5 
 Calories
-Turkey ChiliK Turkey Chili, 1 cup,250 
+ChiliSouth Beach Turkey Chili, 1.5 cups,260 
 Calories
 Chili, OriginalSkyline Chili Grocery, 1 cup,250 
 Calories
@@ -142,33 +156,25 @@ No Beans ChiliHormel Chili, 1 cup,260
 Calories
 Dynamite Hot ChiliStagg Chili, 1 cup,330 
 Calories
-Chicken ChiliUhc Chicken Chili, 1 cup,210 
-Calories
-ChiliHormel Chili W/ Beans, 1 cup,270 
-Calories
-Chili No BeansHornel Chili, 1 cup,220 
-Calories
-ChiliSouth Beach Turkey Chili, 1.5 cups,260 
-Calories
-Turkey. ChiliTurkey Chili, 8 oz,142 
-Calories
 Original Chili CanSkyline Chili, 1 cup,250 
-Calories
-Chili Seasoning, Woodfired ChiliKinder's, 2 tsp,15 
 Calories
 Chili Chili - CupRed Robin, 1 cup,220 
 Calories
-Chili Burrito DeluxeSkyline Chili, 1 burrito,640 
+Turkey. ChiliTurkey Chili, 8 oz,142 
 Calories
 Chili Spaghetti - RegularSkyline Chili, 1 Regular,390 
 Calories
+Chili Burrito DeluxeSkyline Chili, 1 burrito,640 
+Calories
 Original ChiliGold Star Chili, 0.5 cup,120 
+Calories
+Chili Seasoning, Woodfired ChiliKinder's, 2 tsp,15 
 Calories
 Chili, with BeansHormel Chili With Beans, 1 Cup (247g),260 
 Calories
-Vegitarian ChiliVegitarian Chili - Allrecipies, 1 cup cooked,160 
-Calories
 ChiliCheli's Chili, 1 cup,240 
+Calories
+Vegitarian ChiliVegitarian Chili - Allrecipies, 1 cup cooked,160 
 Calories
 Homemade ChiliChris's Homemade Chili, 1 cup,200 
 Calories
@@ -182,62 +188,56 @@ Chili - 10.5 ozHormel Chili, 1 cup,250
 Calories
 Chili with BeansHormel Chili, 1 cup,240 
 Calories
-Chili SpaghettiSkyline Chili Grocery, 1 cup,310 
-Calories
-Chili with BeansStagg Chili, 1 cup,330 
-Calories
 Vegetarian ChiliChili Vegetarian Tabatchnick, 213 g,180 
-Calories
-Original ChiliSkyline Chili Grocery, 3 tbsp,50 
 Calories
 Chili Spaghetti LargeSkyline Chili, 1 order,580 
 Calories
 ChiliAll-American Chili, 1.25 cup,375 
 Calories
-Gourmet Chili BlendChucwater Chili, 1 tsp,10 
-Calories
 ChiliSweet Potato and Black Bean Chili, 2 cups,307 
+Calories
+Chili SpaghettiSkyline Chili Grocery, 1 cup,310 
 Calories
 Chili - HomemadeTexas Style Chili, 1.5 cup,389 
 Calories
 
 Nutrition Facts
-chili ChiliLearn more<https://support.myfitnesspal.com/hc/en-us/articles/360032273292-What-does-the-check-mark-mean->
+ChiliLearn more<https://support.myfitnesspal.com/hc/en-us/articles/360032273292-What-does-the-check-mark-mean->
 Servings:
-​1 tsp(s)​
+​1 gram(s)​
 Calories
-6.25
+1.179
 Total Fat
-0.208 g
+0.071 g
 Saturated
-0 g
+0.023 g
 Polyunsaturated
-0 g
+0.005 g
 Monounsaturated
-0 g
+0.025 g
 Trans
 0 g
 Cholesterol
-0 mg
+0.21 mg
 Vitamin A
-0 %
+0.054 %
 Vitamin C
-0 %
+0.03 %
 Sodium
-0 mg
+4.11 mg
 Potassium
-0 mg
+1.85 mg
 Total Carbs
-0.625 g
+0.061 g
 Dietary Fiber
-0.104 g
+0.005 g
 Sugars
-0 g
+0.011 g
 Protein
-0.583 g
+0.075 g
 Calcium
-0 %
+0.03 %
 Iron
-0 %
+0.112 %
 *Percent Daily Values are based on a 2000 calorie diet.
  Your dailyvalues may be higher or lower depending on your calorie needs.  * Calorie Counter <https://www.myfitnesspal.com/>  * Blog <https://blog.myfitnesspal.com/>  * Terms <https://www.myfitnesspal.com/terms-of-service>  * Privacy <https://www.myfitnesspal.com/privacy-policy>  * Contact Us <https://www.myfitnesspal.com/contact-us>  * API <https://www.myfitnesspal.com/api>  * Jobs <https://www.myfitnesspal.com/jobs>  * Feedback    <https://community.myfitnesspal.com/en/entry/jsconnect?client_id=1122755462&Target=%2Fcategories%2Ffeature-suggestions-and-ideas>  * Community Guidelines <https://www.myfitnesspal.com/community-guidelines>  *    Cookie Preferences  * Ad Choices    <https://www.myfitnesspal.com/privacy-policy#interest-based-advertising>  * Do Not Sell My Personal Information    <https://www.myfitnesspal.com/data-usage>© 2023 MyFitnessPal, Inc.Free Calorie Counter, Diet & Exercise Journal | MyFitnessPal

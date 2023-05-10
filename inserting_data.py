@@ -8,9 +8,9 @@ if __name__ == '__main__':
     # check if the data folder exists in the current directory
     path = os.path.join(current_dir, 'data')
 
-    file = 'thyme'
+    file = 'angelica sinensis'
     filename = os.path.join(path, file + ".txt")
 
     remove_new_line(filename)
     add_new_line(filename)
-    insert_to_db(filename, "Food-RS-0")
+    insert_to_db(filename, "Food-RS-0", "quantity", "10000")
