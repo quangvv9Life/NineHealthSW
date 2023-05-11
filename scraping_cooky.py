@@ -23,6 +23,7 @@ if not os.path.exists(page_dir):
     os.makedirs(page_dir)
 
 firefox_options = Options()
+firefox_options.headless = True
 firefox_options.set_preference("privacy.trackingprotection.enabled", True)
 firefox_options.set_preference("browser.download.dir", page_dir)
 firefox_options.set_preference("browser.download.folderList", 2)
