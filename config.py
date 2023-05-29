@@ -3,7 +3,7 @@ import psycopg2
 
 class DatabaseConnection:
     def __init__(self, database):
-        self.DATABASE_URI = f'postgresql://postgres:1Lik39Health!@192.168.1.3:12432/{database}'
+        self.DATABASE_URI = f'postgresql://postgres:password@localhost:12432/{database}'
         self.connection = psycopg2.connect(self.DATABASE_URI)
 
 
