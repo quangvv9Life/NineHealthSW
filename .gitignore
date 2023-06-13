@@ -12,6 +12,7 @@ ENV/
 .vscode/
 .idea/
 *.iml
+data/
 
 # Dependency directories
 /.venv/
@@ -31,3 +32,4 @@ ENV/
 .coverage
 *.sql
 geckodriver.log
+*.txt

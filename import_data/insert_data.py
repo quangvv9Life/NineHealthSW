@@ -241,13 +241,12 @@ def insert_to_db(filename, database, nutrient, quantity):
                                 and f1.ingredient_name_en = f2.ingredient_name_en \
                                 and f1.ingredient_unit_en = f2.ingredient_unit_en \
                                 and f1.ingredient_name_en = '{}' \
-                                and f1.ingredient_unit_en in ('{}') \
-                                and f1.{} > {} ;".format(parsed_info['ingredient_name_en'], parsed_info['ingredient_unit_en'].replace(' ', ''), nutrient, quantity)
-
+                                and f1.ingredient_unit_en in ('{}') ;".format(parsed_info['ingredient_name_en'], parsed_info['ingredient_unit_en'].replace(' ', ''))
+            check_query = "SELECT * FROM fin_man_py WHERE food_name like '%{}%';".format(parsed_info['food_name'])
             # print(query)
             cur.execute(query)
             # cur.execute(update_query)
             conn.commit()
             cur.close()
             conn.close()
-    return "done"
+    return 'done'
