@@ -178,7 +178,7 @@ def insert_to_db(filename, database, nutrient, quantity):
             # Format as string
             now = datetime.datetime.now()
             cr_date = now.strftime('%Y-%m-%d %H:%M:%S')
-            query = "INSERT INTO public.fin_man_py( food_id, food_name, food_name_search, ingredient_name, ingredient_name_en, ingredient_name_search ,ingredient_unit_vn, ingredient_unit_en, serving, quantity, calories, sodium, potassium, saturated_fat, carbohydrates, polyunsaturated_fat, fiber, fat, monounsaturated_fat, sugar, trans_fat, protein, cholesterol, vitamin_a, calcium, vitamin_c, iron, smart_points, food_category_id, from_source, cr_date) VALUES ({})".format(
+            query = "INSERT INTO nutrition.fin_man_py( food_id, food_name, food_name_search, ingredient_name, ingredient_name_en, ingredient_name_search ,ingredient_unit_vn, ingredient_unit_en, serving, quantity, calories, sodium, potassium, saturated_fat, carbohydrates, polyunsaturated_fat, fiber, fat, monounsaturated_fat, sugar, trans_fat, protein, cholesterol, vitamin_a, calcium, vitamin_c, iron, smart_points, food_category_id, from_source, cr_date) VALUES ({})".format(
                 ','.join([
                     str(parsed_info['food_id']),
                     "'" + parsed_info['food_name'] + "'",

@@ -27,7 +27,7 @@ if not os.path.exists(page_dir):
     os.makedirs(page_dir)
 
 firefox_options = Options()
-firefox_options.headless = True
+# firefox_options.add_argument('-headless')
 firefox_options.set_preference("privacy.trackingprotection.enabled", True)
 firefox_options.set_preference("browser.download.dir", page_dir)
 firefox_options.set_preference("browser.download.folderList", 2)
@@ -45,8 +45,8 @@ driver.get("https://www.cooky.vn/cach-lam/")
 # Category dictionary
 xpath = {
     # 'Thực đơn': '/html/body/div[10]/div/div[1]/div/div/div/div/div[2]/div[1]/div[2]/div[1]/div',
-    # 'Loại món': '/html/body/div[10]/div/div[1]/div/div/div/div/div[2]/div[1]/div[2]/div[2]/div',
-    'Nguyên liệu': '/html/body/div[10]/div/div[1]/div/div/div/div/div[2]/div[1]/div[2]/div[3]/div',
+    'Loại món': '/html/body/div[10]/div/div[1]/div/div/div/div/div[2]/div[1]/div[2]/div[2]/div',
+    # 'Nguyên liệu': '/html/body/div[10]/div/div[1]/div/div/div/div/div[2]/div[1]/div[2]/div[3]/div',
     # 'Độ khó': '/html/body/div[10]/div/div[1]/div/div/div/div/div[2]/div[1]/div[2]/div[4]/div',
     # 'Ẩm thực': '/html/body/div[10]/div/div[1]/div/div/div/div/div[2]/div[1]/div[2]/div[6]/div',
     # 'Cách thực hiện': '/html/body/div[10]/div/div[1]/div/div/div/div/div[2]/div[1]/div[2]/div[7]/div'
@@ -68,10 +68,8 @@ conn = db.connection
 cur = conn.cursor()
 
 for parent_name, xpath_value in xpath.items():
-    # food_categories = ['Cá', 'Tôm tươi CP Fresh Mart', 'Tôm', 'Cua', 'Ghẹ', 'Mực - Bạch tuộc',
-                    #    'Ốc', 'Sò', 'Hàu', 'Bào ngư', 'Loại thủy hải sản khác', 'Chuột', 'Heo', 'Bò', 'Thịt nạc vai CP Fresh Mart', 'Gà', 'Vịt', 'Dê', 'Ếch', 'Chim',  'Cầy', 'Cừu', 'Thỏ', 'Mèo', 'Bò Sát', 'Trâu', 'Nai', 'Ngỗng']
-    # insuf_food_categories = ['Bò', 'Vịt','Dê','Thỏ','Cừu', 'Bò Sát', 'Trâu', 'Rau', 'Củ', 'Quả', 'Loại bột khác', 'Tinh bột', 'Ngũ cốc']
-    food_categories = ['']
+    food_categories = ['Đồ sống', 'Snacks', 'Cupcake - Muffin', 'Bún - Mì - Phở', 'Pasta - Spaghetti','Miến - Hủ tiếu']
+    insuf_food_categories = []
 
     food_categories = [category for category in food_categories if category not in insuf_food_categories]
     
@@ -90,6 +88,7 @@ for parent_name, xpath_value in xpath.items():
     for submenu in submenus:
         submenu.click()
         print('clicked submenu')
+        # time.sleep(3)
         count += 1
         # extract the value from span element
         selected_submenu = driver.find_element(
@@ -131,7 +130,7 @@ for parent_name, xpath_value in xpath.items():
                     load_more_button.click()
 
                     # Introduce a delay to allow the page to load fully
-                    time.sleep(3)  # Adjust the delay duration as needed
+                    time.sleep(5)  # Adjust the delay duration as needed
 
                     # Wait for all the items to be loaded fully
                     # WebDriverWait(driver, WEBPAGE_TIMEOUT).until(
@@ -143,10 +142,10 @@ for parent_name, xpath_value in xpath.items():
                     # Check if the "Load More" button is disabled
                     if not load_more_button.is_enabled():
                         break
+                    html = driver.execute_script("return document.documentElement.innerHTML")   
             except:
                 # Wait for the page to load and extract the new recipe links
-                html = driver.page_source
-                file_path = r'G:\\0_9Health\\6_data\\Food-RS\\offline_pages\\cooky\\test-1.html'
+                file_path = r'E:\\1_RS\\scraping-data\\offline_pages\\cooky-html.html'
                 with open(file_path, 'w', encoding='utf-8') as file:
                     file.write(html)
 

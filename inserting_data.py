@@ -27,4 +27,4 @@ if __name__ == '__main__':
     
     remove_new_line(file)
     add_new_line(file)
-    insert_to_db(file, "Food-RS-0", "quantity", "10000")
+    insert_to_db(file, "NineHealth_2", "quantity", "10000")

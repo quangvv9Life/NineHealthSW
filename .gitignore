@@ -3,16 +3,16 @@
 __pycache__/
 
 # Virtual environment
-venv/
+.venv/
 _venv/
 env/
 ENV/
+data/
 
 # IDE files
 .vscode/
 .idea/
 *.iml
-data/
 
 # Dependency directories
 /.venv/
