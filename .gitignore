@@ -1,0 +1,35 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+.venv/
+_venv/
+env/
+ENV/
+data/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Dependency directories
+/.venv/
+/dist/
+/build/
+/egg-info/
+*.egg-info/
+/*.egg
+/*.whl
+
+# Test files
+*.pyo
+*.pyc
+*.pytest_cache/
+/nose/
+/htmlcov/
+.coverage
+*.sql
+geckodriver.log
+*.txt
